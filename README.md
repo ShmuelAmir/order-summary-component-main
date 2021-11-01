@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ShmuelAmir/order-summary-component-main]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://shmuelamir.github.io/order-summary-component-main]
 
 ## My process
 
